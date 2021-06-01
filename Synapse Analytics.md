@@ -7,6 +7,10 @@ User can create two types of SYnapse Services
 ![image](https://user-images.githubusercontent.com/4485129/120397739-7c015d00-c356-11eb-8b54-44885aa9aa8d.png)
 
 
+## Synapse Pool Architecture
+![image](https://user-images.githubusercontent.com/4485129/120404039-19628e00-c363-11eb-8ea9-4d4b4c393829.png)
+
+
 https://vshow.on24.com/vshow/AADM/exhibits/Episode_1
 
 http://aka.ms/SynapseDocs
