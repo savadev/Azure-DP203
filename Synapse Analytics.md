@@ -1,5 +1,12 @@
 # First Synapse Project 
 
+User can create two types of SYnapse Services
+1. Azure Synapse Analytics ( workspace )
+2. Azure Synapse Analytics ( SQL DW )
+
+![image](https://user-images.githubusercontent.com/4485129/120397739-7c015d00-c356-11eb-8b54-44885aa9aa8d.png)
+
+
 https://vshow.on24.com/vshow/AADM/exhibits/Episode_1
 
 http://aka.ms/SynapseDocs
