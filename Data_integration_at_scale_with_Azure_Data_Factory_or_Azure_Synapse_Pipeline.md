@@ -1,18 +1,17 @@
 # Data integration at scale with Azure Data Factory or Azure Synapse Pipeline 
-* Synapse Analytics 
+
 * In this learning path, the students will learn how to create and manage data pipelines in the cloud using Azure Data Factory. 
 
-* Prerequisites 
-* The following pre-requisite should be completed: 
+* **Prerequisites**
+The following pre-requisite should be completed: 
+    * Successfully login to the Azure portal * 
+    * Understand the Azure storage options 
+    * Understand the Azure compute options 
+    * Modules in this learning path 
 
-* Successfully login to the Azure portal * 
-* Understand the Azure storage options 
-* Understand the Azure compute options 
-* Modules in this learning path 
 
-
-#### Integrate data with Azure Data Factory or Azure Synapse Pipeline 
-* **In this module, you will examine Azure Data Factory and the core components that enable you to create large scale data ingestion solutions in the cloud **
+### Integrate data with Azure Data Factory or Azure Synapse Pipeline 
+* **In this module, you will examine Azure Data Factory and the core components that enable you to create large scale data ingestion solutions in the cloud**
 
 * Introduction 2 min 
 * Understand Azure Data Factory 4 min 
@@ -29,8 +28,8 @@
 * Summary 3 min 
 
 
-#### Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline 
-* **In this module, you will learn the various methods that can be used to ingest data between various data stores using Azure Data Factory. **
+### Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline 
+* **In this module, you will learn the various methods that can be used to ingest data between various data stores using Azure Data Factory.**
 
 * Introduction 2 min 
 * List the data factory ingestion methods 4 min 
@@ -43,8 +42,8 @@
 * Summary 3 min 
 
 
-#### Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline 
-* **In this module, you will learn how to perform common data transformation and cleansing activities within Azure Data Factory without using code. **
+### Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline 
+* **In this module, you will learn how to perform common data transformation and cleansing activities within Azure Data Factory without using code.**
 
 * Introduction 3 min 
 * Explain Azure Data Factory transformation methods 5 min 
@@ -58,8 +57,8 @@
 * Summary 3 min 
 
 
-#### Populate slowly changing dimensions in Azure Synapse Analytics pipelines 
-* **In this module, you will learn how to implement Slowly Changing Dimension using Azure Data Factory or Azure Synapse Pipelines. **
+### Populate slowly changing dimensions in Azure Synapse Analytics pipelines 
+* **In this module, you will learn how to implement Slowly Changing Dimension using Azure Data Factory or Azure Synapse Pipelines.**
 
 * Introduction 3 min 
 * Describe slowly changing dimensions 4 min 
@@ -69,8 +68,8 @@
 * Summary 3 min 
 
 
-#### Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline 
-* **In this module, you will learn how Azure Data Factory can orchestrate large scale data movement by using other Azure Data Platform and Machine Learning technologies. **
+### Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline 
+* **In this module, you will learn how Azure Data Factory can orchestrate large scale data movement by using other Azure Data Platform and Machine Learning technologies.**
 
 * Introduction 3 min 
 * Understand data factory control flow 5 min 
@@ -83,13 +82,21 @@
 * Summary 3 min 
 
 
-#### Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline 
-* **In this module, you will see how you can integrate SQL Server Integration Services packages into an Azure Data Factory solution **
+### Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline 
+* **In this module, you will see how you can integrate SQL Server Integration Services packages into an Azure Data Factory solution**
+
+* Introduction 3 min
+* Describe SQL Server integration services 3 min
+* Understand the Azure SSIS Integration Runtime 3 min
+* Set-up Azure SSIS Integration Runtime 3 min
+* Run SSIS packages in Azure Data Factory 3 min
+* Migrate SSIS packages to Azure Data Factory 3 min
+* Knowledge check 3 min
+* Summary 3 min
 
 
-
-#### Operationalize your Azure Data Factory or Azure Synapse Pipeline 
-* **In this module, you will learn how you can publish your Azure Data Factory work between different environments. **
+### Operationalize your Azure Data Factory or Azure Synapse Pipeline 
+* **In this module, you will learn how you can publish your Azure Data Factory work between different environments.**
 
 * Introduction 3 min 
 * Understand the language support in Azure Data Factory 5 min 
@@ -102,8 +109,8 @@
 * Summary 3 min 
 
 
-#### Receive data with Azure Data Share and transforming with Azure Data Factory 
-* **Learn how to ingest data from Azure Data Share into Azure Data Factory pipelines to build automated ingestion pipelines. **
+### Receive data with Azure Data Share and transforming with Azure Data Factory 
+* **Learn how to ingest data from Azure Data Share into Azure Data Factory pipelines to build automated ingestion pipelines.**
 
 * Introduction 3 min 
 * Send and Receive data using Azure Data Share and transform data using Azure Data Factory 3 min 
@@ -118,4 +125,4 @@
 * Exercise: Publish a pipeline run in Azure Data Factory 3 min 
 * Knowledge check 3 min 
 * Summary 3 min 
-* 
+
