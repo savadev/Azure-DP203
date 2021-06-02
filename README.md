@@ -1,3 +1,7 @@
+# Microsoft Certified: Azure Data Engineer Associate
+Azure [DP 203](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
+
+https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/?tab=tab-learning-paths
 
 The following is a summary of the lab objectives for each module:
 
