@@ -4,7 +4,7 @@
 
 * **Prerequisites**
 The following pre-requisite should be completed: 
-    * Successfully login to the Azure portal * 
+    * Successfully login to the Azure portal 
     * Understand the Azure storage options 
     * Understand the Azure compute options 
     * Modules in this learning path 
